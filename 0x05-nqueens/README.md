@@ -1,8 +1,7 @@
-# 0x05. N Queens
+* N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard.
 
-![Algorithm]() ![Python]()
+* f the user called the program with the wrong number of arguments, print Usage: nqueens N,
 
-## Requirements
+* If N is not an integer, print N must be a number
 
-## General
-
+* If N is smaller than 4, print N must be at least 4
